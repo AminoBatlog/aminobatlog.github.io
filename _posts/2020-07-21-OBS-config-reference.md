@@ -2,7 +2,6 @@
 title: OBS的调教经验记录
 tags: OBS
 pageview: true
-sidebar: Link
 ---
 曾经一直饱受obs直播丢帧的困扰，最近忙活了几天之后终于可以在低丢帧率的情况下（指丢帧在0.1%左右）流畅直播了
 
