@@ -48,3 +48,10 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+Link:
+  - title: 网站链接
+    children:
+      - title: 哔哩哔哩网站
+        url: https://space.bilibili.com/8058520
+     
