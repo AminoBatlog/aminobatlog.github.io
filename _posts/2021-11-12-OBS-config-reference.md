@@ -13,7 +13,7 @@ tags: TeXt
 
 在正文开始前先安利一个软件
 
-__msi afterburner__和自带的监控软件**RTSS**
+**msi afterburner**和自带的监控软件**RTSS**
 
 这两个软件主要辅助于在玩游戏的时候对自己的硬件进行实时的监控，以便于调整直播参数以及判断卡顿原因
 
@@ -55,7 +55,7 @@ OK那么进入正文
 
 图片走起↓
 
-![img](https://i0.hdslb.com/bfs/article/watermark/c34fe6fb93fc0bb85354ee55f4e122a1a0608834.png@831w_66h_progressive.webp)
+![img](\_posts_img\2021-11-12-OBS-config-reference\1.webp)
 
 最左边的丢帧就可以看出是否为网络延迟丢帧
 
@@ -77,7 +77,7 @@ OK那么进入正文
 
 红框圈起来的是两个罪魁祸首
 
-![img](https://i0.hdslb.com/bfs/article/watermark/88fae8ce8eee3d869b11074a85eb34c2ac7d9ada.png@942w_369h_progressive.webp)
+![img](\_posts_img\2021-11-12-OBS-config-reference\2.webp)
 
 关于第二点：obs因为渲染延迟错过的帧
 
@@ -87,7 +87,7 @@ OK那么进入正文
 
 原文链接：https://www.reddit.com/r/obs/comments/a9pob8/help_with_obs_rendering_lag/ 
 
-![img](https://i0.hdslb.com/bfs/article/watermark/239d2240a3d03a56136dd7d72ec69909a54fe5f9.png@942w_626h_progressive.webp)
+![img](\_posts_img\2021-11-12-OBS-config-reference\3.webp)
 
 大概意思就是，obs在推流的时候无论你选择软件编码还是硬件编码都需要**占用大概5%**的GPU来进行捕获，合成和渲染然后送给编码器，然后渲染延迟丢帧大概是因为GPU的占用已经满了，不过空间让obs浪了，然后obs就不得劲儿了，不爱干了
 
@@ -113,7 +113,7 @@ OK那么进入正文
 
 在**3D设置**里面的**全局设置**里设置**最高帧率限制**，限制到自己屏幕刷新率就好了，或者屏幕刷新率适当往下1,2帧，可以顺带辅助缓解画面撕裂问题，至于理由，欢迎有空观看硬件茶谈的视频https://www.bilibili.com/video/BV1FK4y1x7bk
 
-![img](https://i0.hdslb.com/bfs/article/watermark/cb7f58f37ed5eb407a1df97db374c4c37f3638bb.png@942w_695h_progressive.webp)
+![img](\_posts_img\2021-11-12-OBS-config-reference\4.webp)
 
 第三点：obs因为编码延迟错过的帧
 
