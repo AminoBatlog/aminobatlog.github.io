@@ -1,6 +1,6 @@
 ---
 title: Wampserver搭建php环境+WordPress配置
-tag: Web
+tags: Web
 key: Web20211113
 pageview: true
 ---
