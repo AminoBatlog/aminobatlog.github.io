@@ -60,7 +60,7 @@ WAMP总共会启动三个服务，分别就是Apache，MariaDB和MYSQL，具体�
 
 首先，先去下载WordPress（废话）下载地址：[下载 | WordPress.org China 简体中文](https://cn.wordpress.org/download/)
 
-下载完之后直接解压，然后覆盖回wamp的www目录（在这一布会替换掉index.php，直接替换就行了，要是想保留原来的index.php可以改个名字放旁边，没有问题）
+下载完之后直接解压，然后覆盖回wamp的www目录（在这一布会替换掉index.php，直接替换就行了，要是想保留原来的index.php可以把原来的index.php改个名字放旁边，没有问题）
 
 完事之后可以直接在浏览器里输入localhost，进入5步安装界面
 
