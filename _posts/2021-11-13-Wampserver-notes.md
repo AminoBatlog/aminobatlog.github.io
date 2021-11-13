@@ -1,6 +1,7 @@
 ---
 title: Wampserver搭建php环境+WordPress配置
 tag: Web
+key: Web20211113
 ---
 
 在自行搭建wamp环境的时候，因为MYSQL的版本太高导致WordPress无法连接到数据库，后来想了想干脆找个集成的软件直接一键搭建环境好了（其实是懒得再去重新下一遍mysql重新配置了），刚好家里的狐狸想要整个网站导航网页，然后我在WordPress上找到了个不错的模板，就顺便记录一下整个搭建的过程
