@@ -4,8 +4,8 @@ key: network20211114
 preview: true
 comment: true
 tags:
-  -CCNA
-  -Network
+  CCNA
+  Network
 ---
 
 上了一周CCNA课了，还好我在好几年前就已经把这些内容看了好多遍了，虽然没有完全记住，但是至少不会碰到初见杀，那么来简单的做做笔记记录一下好了
