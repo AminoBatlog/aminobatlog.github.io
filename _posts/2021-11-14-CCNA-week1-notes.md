@@ -199,7 +199,7 @@ Router(config-if)# shutdown
 // show interface status
 Router# show interfaces <interface-type> <port|slot|subslot>
 // show all interfaces status
-Router# show interfaces brief
+Router# show ip interfaces brief
 ```
 
 ---
