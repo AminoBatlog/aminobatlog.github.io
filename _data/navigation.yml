@@ -24,7 +24,8 @@ header:
       # @end locale config
     url: /archive.html
 
-#  - titles:
-#      en:       Navigation
-#      zh:       网址导航
-#    url:        /dh
+  - titles:
+      en:       Dont be fool!
+      zh:       防诈骗专栏
+      zh-CN:    防诈骗专栏
+    url:        https://www.bilibili.com/video/BV1GJ411x7h7
