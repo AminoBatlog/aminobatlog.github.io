@@ -102,13 +102,13 @@ Switch(config)# switchport access <vlan>
 
 **VLAN range:**
 
-![Text Alt](/assets/image/2021-11-17/1.png "VLAN range reference")
+![Text Alt](/assets/images/2021-11-17/1.png "VLAN range reference")
 
 ---
 
 **802.1Q:**
 
-![Text Alt](/assets/image/2021-11-17/2.png "802.1Q frame structure")
+![Text Alt](/assets/images/2021-11-17/2.png "802.1Q frame structure")
 
 **Trunk basic setting:**
 
@@ -169,11 +169,11 @@ Notes: VTP is server mode by default, VTP domain and password are case sensitive
 
 Method 1: use multiple physical interface
 
-![Text Alt](/assets/image/2021-11-17/3.png "Physical interface act as default gateway for each VLAN")
+![Text Alt](/assets/images/2021-11-17/3.png "Physical interface act as default gateway for each VLAN")
 
 Method 2: use One-arm routing
 
-![Text Alt](/assets/image/2021-11-17/4.png "One-arm routing")
+![Text Alt](/assets/images/2021-11-17/4.png "One-arm routing")
 
 ```
 Router(config)# interface <port>
