@@ -1,7 +1,7 @@
 ---
 title: CCNA第一周笔记汇总
 key: network20211114
-preview: true
+pageview: true
 comment: true
 tags:
   CCNA
