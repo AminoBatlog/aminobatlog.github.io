@@ -3,7 +3,7 @@ title: CCNA第二周笔记Day2
 key: network20211118
 pageview: true
 comment: true
-tag:
+tags:
   CCNA
   Network
 ---
