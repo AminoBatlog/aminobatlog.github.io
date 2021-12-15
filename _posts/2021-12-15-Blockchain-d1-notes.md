@@ -1,5 +1,5 @@
 ---
-title: 区块链笔记: 密码学原理和数据结构
+title: 区块链笔记 密码学原理和数据结构
 key: blockchain20211215
 pageview: true
 comment: true
