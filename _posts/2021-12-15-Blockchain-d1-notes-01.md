@@ -30,7 +30,7 @@ tags:
 
 每一笔交易都记录进区块链内,然后每一次交易都进行验证,溯源,如果有出现double spending,那么交易不合法,不记录进区块链内
 
-![Alt Text](assets/images/2021-12-15/transaction process.png "交易有效性验证")
+![Alt Text](/assets/images/2021-12-15/transaction process.png "交易有效性验证")
 
 交易需要包含几个信息:
 
@@ -88,13 +88,13 @@ Paxos协议: 能保持一致性,客观存在一直无法达成共识
 
 被抛弃的block成为orphan block
 
-![Alt Text](assets/images/2021-12-15/longest valid chain.png "最长合法链")
+![Alt Text](/assets/images/2021-12-15/longest valid chain.png "最长合法链")
 
 这种叫做分叉攻击(Forking Attack),通过插入区块来回滚已经发生的交易. 如果有两个节点同时获得记账权,会获得两个等长的链
 
 那么就会进行竞争,能算出下一个block的节点获得记账权,那么它所承认的chain会成为valid chain,另外一部分的节点所研究出来的block会成为孤儿区块被抛弃
 
-![Alt Text](assets/images/2021-12-15/orphan block.png "孤儿区块的产生")
+![Alt Text](/assets/images/2021-12-15/orphan block.png "孤儿区块的产生")
 
 每个区块拥有block reward机制,存在coinbase transaction,即可以凭空获得BTC,产生新的BTC
 
