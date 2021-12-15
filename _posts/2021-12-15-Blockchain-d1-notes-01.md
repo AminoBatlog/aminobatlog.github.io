@@ -1,10 +1,10 @@
 ---
-title:区块链笔记 协议
+title: 区块链笔记 协议
 key: blockchain20211215001
 pageview: true
 comment: true
 tags:
-  blockchain
+  Blockchain
 ---
 
 区块链笔记1_1:
