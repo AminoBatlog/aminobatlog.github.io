@@ -120,6 +120,10 @@ Merkle Tree的作用: 提供Merkle Proof
 
 如何证明里面没有某个交易(proof of non-membership),首先需要对交易内容的哈希值进行一次排序,然后找出我们要验证的交易在哪个区间里,然后拿相邻的两个交易出来进行计算验证,如果这两个交易验证出来确实是相邻的两个叶子,那么就证明这个交易不在这个树里
 
+这种被排列过的Merkle Tree,叫做Sorted Merkle Tree
+
+![Alt Text](/assets/images/2021-12-15/sorted merkle tree.png "Sorted Merkle proof示意图")
+
 ---
 
 保留疑问:既然已经可以把交易的哈希值排序了,为啥就不能进行查找呢
