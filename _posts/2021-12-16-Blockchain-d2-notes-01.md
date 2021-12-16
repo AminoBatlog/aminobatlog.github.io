@@ -1,5 +1,5 @@
 ---
-title: 区块链笔记 网络
+title: 区块链笔记 网络 挖矿难度 挖矿
 key: blockchain20211216001
 tags:
   Blockchain
