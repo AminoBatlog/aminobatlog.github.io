@@ -3,7 +3,7 @@ title: Apex Reticle机制简单介绍
 key: game20211218
 tags:
   Games
-  Apex Legends
+  Apex-Legends
 ---
 
 这篇文章简单介绍一下apex的reticle机制, 希望能帮当想要自定义准星的朋友们
