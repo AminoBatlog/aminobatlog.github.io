@@ -3,6 +3,7 @@ title: 区块链笔记 比特币脚本
 key: blockchain20211217
 tags:
   Blockchain
+  BTC
 ---
 
 区块链笔记3:

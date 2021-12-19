@@ -5,6 +5,7 @@ pageview: true
 comment: true
 tags:
   Blockchain
+  BTC
 ---
 
 区块链笔记1_1:
