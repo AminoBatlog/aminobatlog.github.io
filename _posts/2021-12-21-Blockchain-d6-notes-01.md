@@ -48,7 +48,7 @@ ETH用两个数据集, 一大一小, 小的是16M的cache, 大的是1G的dataset
 
 ethash的伪代码
 
-**这个函数是生成**cache的函数
+这个函数是**生成cache的函数**
 
 ![img](/assets/images/2021-12-21/pesudocode of ethash 01.png)
 
