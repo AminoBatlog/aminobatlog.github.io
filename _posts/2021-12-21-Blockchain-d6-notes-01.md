@@ -50,19 +50,19 @@ ethash的伪代码
 
 **这个函数是生成**cache的函数
 
-![img](/assets/image/2021-12-21/pesudocode of ethash 01.png)
+![img](/assets/images/2021-12-21/pesudocode of ethash 01.png)
 
 这个函数是**生成DAG中的第i个位置的元素**
 
-![img](/assets/image/2021-12-21/pesudocode of ethash 02.png)
+![img](/assets/images/2021-12-21/pesudocode of ethash 02.png)
 
 这个函数是**生成整个1G的DAG的过程**
 
-![img](/assets/image/2021-12-21/pesudocode of ethash 03.png)
+![img](/assets/images/2021-12-21/pesudocode of ethash 03.png)
 
 这个函数是**矿工用来挖矿的函数和轻节点用来验证的函数**
 
-![img](/assets/image/2021-12-21/pesudocode of ethash 04.png)
+![img](/assets/images/2021-12-21/pesudocode of ethash 04.png)
 
 第一个header为块头信息, 第二个nonce为随机数信息, 第三个full_size 为DAG中元素的个数, 这个DAG每隔3w个区块就会增加1/128, 也就是8M的大小, dataset就是DAG
 
@@ -74,11 +74,11 @@ header是被验证的区块header, nonce是这个区块的nonce, full_size仍然
 
 这个函数是**矿工挖矿的函数**
 
-![img](/assets/image/2021-12-21/pesudocode of ethash 05.png)
+![img](/assets/images/2021-12-21/pesudocode of ethash 05.png)
 
 这个是整个流程的伪代码
 
-![img](/assets/image/2021-12-21/pesudocode of ethash 06.png)
+![img](/assets/images/2021-12-21/pesudocode of ethash 06.png)
 
 
 
@@ -92,7 +92,7 @@ ETH当中采用的预挖矿(pre-mining)的过程, 当时刚开始的时候, 预�
 
 以太坊现状(2018年)
 
-![img](/assets/image/2021-12-21/eth in 2018.png)
+![img](/assets/images/2021-12-21/eth in 2018.png)
 
 
 
