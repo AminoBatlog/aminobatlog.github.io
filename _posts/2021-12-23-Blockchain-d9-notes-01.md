@@ -3,7 +3,6 @@ title: 区块链笔记 总结
 key: blockchain20211224001
 tags:
   Blockchain
-  ETH
 ---
 
 区块链笔记9_1:
